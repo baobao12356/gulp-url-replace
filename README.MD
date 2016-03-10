@@ -23,15 +23,15 @@ gulp.task('move', function(){
 ```
 
 ### API
-gulp-url-replace can be called with a object
-replace({ "oldPath":"newPath"[,"oldPath2":"newPath2",...]})
+gulp-url-replace can be called with a object  
+<pre>replace({ "oldPath":"newPath"[,"oldPath2":"newPath2",...]})</re>
 
 #### oldPath
-type: String
+type: String  
 The string to search for
 
 #### newPath
-type: String
+type: String  
 The string to replace the search
 
 [npm-url]: https://npmjs.org/package/gulp-url-replace
