@@ -1,5 +1,8 @@
-## gulp-url-replace [![NPM version][npm-image]][npm-url] 
+## gulp-url-replace
 > gulp构建中用来替换 js，css，img等资源的路径，通常用于从开发文件夹搬运到生产文件夹
+
+### 博客
+[gulp尝试开发](http://blog.zjy.space/2016/03/10/gulp%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91/)
 
 ### 安装
 ```shell
@@ -33,6 +36,3 @@ The string to search for
 #### newPath
 type: String  
 The string to replace the search
-
-[npm-url]: https://npmjs.org/package/gulp-url-replace
-[npm-image]: https://badge.fury.io/js/gulp-replace.svg
